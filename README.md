@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NoahNininger
 - 👀 I’m interested in cybersecurity & video-game development
-- 🌱 I’m currently learning Java & C#
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on projects to help my understanding of programming
 - 📫 nsnininger@gmail.com
 
