@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NoahNininger
 - 👀 I’m interested in cybersecurity & information technology
-- 🌱 I’m currently learning HTML
 <!---
+- 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on projects to help my understanding of programming 
 --->
 - 📫 nnining@clemson.edu
