@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NoahNininger
-- 👀 Interests: IT • Cybersecurity • Web Development • Software Engineering
+- 👀 Interests: IT • Cybersecurity • Data Science • Software Engineering
 - 🌱 Current Projects: Clemson University Undergrad
 - ✨ Languages: C • C++ • C# • Java • Python • HTML • CSS • JavaScript • x86-64 • ARM
 <!---
