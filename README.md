@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NoahNininger
 - 👀 Interests: IT • Data Science • Software Engineering
 - 🌱 Current Projects: Good Driver Incentive Program - Clemson University CPSC 4910
-- ✨ Languages: C • C++ • Java • Python • HTML • CSS • JavaScript • Node.js • Assembly
+- ✨ Languages: C • C++ • Java • Python • HTML • CSS • JavaScript • Node.js • x86-64 • arm64
 <!---
 - 💞️ I’m looking to collaborate on projects to help my understanding of programming 
 --->
