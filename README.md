@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NoahNininger
 - 👀 Interests: IT • Data Science • Software Engineering
-- 🌱 Current Projects: Clemson University Graduation
+- 🌱 Current Projects: NBF Web-App
 - ✨ Languages: C • C++ • Java • Python • HTML • CSS • JavaScript • Node.js • x86-64 • arm64
 <!---
 - 💞️ I’m looking to collaborate on projects to help my understanding of programming 
